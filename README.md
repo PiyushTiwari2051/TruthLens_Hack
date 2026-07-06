@@ -55,7 +55,7 @@ Our deeply integrated, multi-modal pipeline leverages extreme-scale heuristics a
 
 ---
 
-## ⚡ The TruthLens Advantage
+# ⚡ The TruthLens Advantage
 
 We didn't just build a detector; we built an **Investigative Operations System (OS)** for truth.
 
@@ -82,7 +82,7 @@ Produces legally compliant, highly structured forensic dossiers for enterprise a
 
 ---
 
-## 🧠 Architectural Mastery
+# 🧠 Architectural Mastery
 
 At the core of TruthLens lies a highly cohesive, fault-tolerant layered architecture built for scale, speed, and real-time inference routing.
 
@@ -106,7 +106,7 @@ graph TD;
 
 ---
 
-## 📊 Precision & Benchmarks
+# 📊 Precision & Benchmarks
 
 | Modality Validation | Latency per MB | Confidence Interval | Pipeline Component |
 | :--- | :---: | :---: | :--- |
@@ -116,7 +116,7 @@ graph TD;
 
 ---
 
-## 🚀 Ignition Sequence
+# 🚀 Ignition Sequence
 
 Deploy TruthLens to your local development environment in 4 rapid steps:
 
